@@ -1,5 +1,5 @@
 # <h1 align="center">NoteBook App</h1>
-## This is a NoteBook application where<br>
+## This is a NoteBook application which<br>
 ⚡ Followed MVVM Architecture Pattern<br>
 ⚡ UI Done with Flutter and Dart<br>
 ⚡ Restful API, Storage Shared Preference, SQLITE <br>
