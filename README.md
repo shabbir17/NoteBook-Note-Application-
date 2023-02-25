@@ -4,8 +4,6 @@
 ⚡ UI Done with Flutter and Dart<br>
 ⚡ Restful API, Storage Shared Preference, SQLITE <br>
 
-### 🌱 Then User will found the description of their current city's weather. And also found city name.
-![332153450_518882710398493_5882950314669730522_n](https://user-images.githubusercontent.com/68172428/221104171-b84f83b9-e686-4caa-9b93-a396527d8b88.png)
 
 
 
